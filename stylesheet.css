@@ -1,0 +1,47 @@
+body { 
+	font: normal 13px/20px Arial, Helvetica, sans-serif; word-wrap:break-word;
+	color: #eee;
+	background: #353535;
+	text-align: center;
+}
+
+#days {
+	font-size: 200%;
+	width: 30%;
+	height: 50px;
+	background-image: -webkit-linear-gradient(top, #222, #333, #333, #222); 
+	background-image:    -moz-linear-gradient(top, #222, #333, #333, #222);
+	background-image:     -ms-linear-gradient(top, #222, #333, #333, #222);
+	background-image:      -o-linear-
+}
+
+#hours {
+	font-size: 200%;
+	width: 30%;
+	height: 50px;
+	background-image: -webkit-linear-gradient(top, #222, #333, #333, #222); 
+	background-image:    -moz-linear-gradient(top, #222, #333, #333, #222);
+	background-image:     -ms-linear-gradient(top, #222, #333, #333, #222);
+	background-image:      -o-linear-
+}
+
+#minutes {
+	font-size: 200%;
+	width: 30%;
+	height: 50px;
+	background-image: -webkit-linear-gradient(top, #222, #333, #333, #222); 
+	background-image:    -moz-linear-gradient(top, #222, #333, #333, #222);
+	background-image:     -ms-linear-gradient(top, #222, #333, #333, #222);
+	background-image:      -o-linear-
+}
+
+#seconds {
+	font-size: 200%;
+	width: 30%;
+	height: 50px;
+	background-image: -webkit-linear-gradient(top, #222, #333, #333, #222); 
+	background-image:    -moz-linear-gradient(top, #222, #333, #333, #222);
+	background-image:     -ms-linear-gradient(top, #222, #333, #333, #222);
+	background-image:      -o-linear-
+}
+
